@@ -1,4 +1,5 @@
 # Seq2seq-with-attention
-This one is this for pratice 
+for pratice purpose only 
  # Credits
  @aladdinpersson
+ @bentrevett
